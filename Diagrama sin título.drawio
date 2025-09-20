@@ -173,7 +173,7 @@
             <mxPoint x="494" y="733" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JD2esdqnqHZk6OhcT9Hv-19" value="-tipoEntrada 1..N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JD2esdqnqHZk6OhcT9Hv-18">
+        <mxCell id="JD2esdqnqHZk6OhcT9Hv-19" value="-tipoEntrada 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JD2esdqnqHZk6OhcT9Hv-18">
           <mxGeometry x="0.4413" y="2" relative="1" as="geometry">
             <mxPoint x="1" y="-17" as="offset" />
           </mxGeometry>
